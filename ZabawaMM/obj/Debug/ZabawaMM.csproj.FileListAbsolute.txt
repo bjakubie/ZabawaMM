@@ -1,0 +1,6 @@
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\ZabawaMM\ZabawaMM\bin\Debug\ZabawaMM.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\ZabawaMM\ZabawaMM\bin\Debug\ZabawaMM.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\ZabawaMM\ZabawaMM\bin\Debug\ZabawaMM.pdb
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\ZabawaMM\ZabawaMM\obj\Debug\ZabawaMM.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\ZabawaMM\ZabawaMM\obj\Debug\ZabawaMM.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\Projects\ZabawaMM\ZabawaMM\obj\Debug\ZabawaMM.pdb
